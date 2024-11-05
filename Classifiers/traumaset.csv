@@ -1,4 +1,4 @@
-﻿Patinet_ID;EEG_Signal_Amplitude;EEG_Delta_band;EEG_Theta_band;EEG_Alpha_band;EEG_Beta_band;Hair_Phenotype;heart_rate;skin_conductance;skin_temperature;cortisol_level;Systolic_BP;Diastolic_BP;Trauma_Severity
+﻿Patient_ID;EEG_Signal_Amplitude;EEG_Delta_band;EEG_Theta_band;EEG_Alpha_band;EEG_Beta_band;Hair_Phenotype;heart_rate;skin_conductance;skin_temperature;cortisol_level;Systolic_BP;Diastolic_BP;Trauma_Severity
 180203;56;2,4786;5,5748;11,7319;23,9909;Curly_hair;Medium_PulseRate;Normal_Conductance;Normal_Temperature;AverageCL;Range2_LowSystolic;NormalDiSystolic;Medium_Severity
 152268;97;3,2531;6,4658;13,1411;28,3962;Curly_hair;High_PulseRate;Low_Conductance;Fever;Below_AverageCL;Range3_LowSystolic;LowDiSystolic;Low_Severity
 157399;83;3,6325;6,0053;13,6766;26,0487;Wavy_hair;High_PulseRate;Low_Conductance;Fever;Below_AverageCL;Range3_LowSystolic;LowDiSystolic;Low_Severity
