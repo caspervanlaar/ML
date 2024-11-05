@@ -1,0 +1,23 @@
+Best parameters found:
+n_estimators: 300
+max_depth: 20
+min_samples_split: 10
+Best R² score: 0.8261
+
+Top 10 most important features:
+          feature  importance
+5           grade    0.334532
+2     sqft_living    0.279829
+10            lat    0.162170
+11           long    0.069241
+8        yr_built    0.037067
+12  sqft_living15    0.035878
+6      sqft_above    0.019346
+13     sqft_lot15    0.015857
+3        sqft_lot    0.014419
+1       bathrooms    0.013738
+
+Final Model Performance:
+Mean Squared Error: 26,325,126,075.15
+Root Mean Squared Error: 162,250.20
+R-squared Score: 0.8261

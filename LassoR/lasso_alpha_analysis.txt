@@ -1,0 +1,23 @@
+Lasso Alpha Analysis Results
+===========================
+
+Best alpha: 0.000100
+Best R^2 score: 0.7562
+Number of features used: 14
+
+Non-zero coefficients:
+          Feature  Coefficient
+5           grade     0.190475
+10            lat     0.182478
+2     sqft_living     0.127062
+8        yr_built    -0.105816
+12  sqft_living15     0.083233
+1       bathrooms     0.059204
+14      condition     0.043696
+4          floors     0.040007
+9    yr_renovated     0.019234
+0        bedrooms    -0.017639
+7   sqft_basement     0.016084
+3        sqft_lot     0.015791
+11           long    -0.011689
+13     sqft_lot15    -0.003223
